@@ -13,6 +13,8 @@ I’m passionate about building **scalable, maintainable, and secure architectur
 - ☁️ Focused on strengthening my expertise in **Cloud Architecture (AWS)** and distributed system design.  
 - 💬 I enjoy mentoring developers, sharing knowledge, and promoting clean, maintainable code.
 
+<br>
+
 ## ⚙️ Tech Stack
 
 ### 🧾 **Languages**
@@ -43,10 +45,12 @@ I’m passionate about building **scalable, maintainable, and secure architectur
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+<br>
+
 ## 📊 GitHub Stats
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hanabi96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hanabi96&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/Hanabi96">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hanabi96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hanabi96&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
